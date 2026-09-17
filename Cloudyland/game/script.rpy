@@ -1,9 +1,14 @@
 ﻿label start:
-    "这部视觉小说由ETHOS制作，欢迎阅读《CloudyLand》!!"
+    "这部视觉小说由 土拨鼠不吃土 制作，欢迎阅读《CloudyLand》!!"
     menu:
         "开始":
-            jump guide
+            jump prologue
         "我还没有想好":
             return
 
-label guide:
+
+    
+
+
+
+
