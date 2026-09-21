@@ -21,14 +21,6 @@
 
 故事中的“赫拉”是本作世界观中的原创神明，仅借用名字；她的信仰、传说与神圣契约均属于《云岛》的设定。
 
-| 项目 | 信息 |
-| --- | --- |
-| 类型 | 原创视觉小说 |
-| 语言 | 简体中文 |
-| 引擎 | Ren’Py |
-| 设计分辨率 | 1920 × 1080 |
-| 制作 | 土拨鼠不吃土 |
-
 ## 章节与进度
 
 | 章节 | 进度 |
@@ -38,27 +30,8 @@
 
 **版本说明：** 第一章已完成创作。目前仓库中的 `CHR1.rpy` 仍使用旧标题“梦是梦的影子”，内容尚未同步至最新结尾；仓库内已有的打包文件也不代表第一章完整版本。
 
-## 场景预览
 
-以下为项目中的背景插图，实际游戏画面还包含文字与界面。
 
-| 酒馆里的回忆 | 教堂中的光 |
-| :---: | :---: |
-| ![昏黄的酒杯](Cloudyland/game/images/bg_amber_wine_glass.png) | ![教堂内部](Cloudyland/game/images/bg_sea_cliff_church_interior.png) |
-
-## 开始体验
-
-仓库保留了一份历史 PC 构建：
-
-**[下载 Cloudyland 1.0 PC 压缩包](https://github.com/DecayInPathos/pathos_novel/raw/refs/heads/master/Cloudyland-1.0-dists/Cloudyland-1.0-pc.zip)**
-
-下载后完整解压：
-
-- **Windows：** 运行解压目录中的 `Cloudyland.exe`。
-- **Linux：** 在解压目录中运行 `./Cloudyland.sh`；如缺少执行权限，先运行 `chmod +x Cloudyland.sh`。
-- **macOS：** 可按下方方法通过 Ren’Py 启动源码项目。
-
-这份构建适合体验已有内容；查看当前仓库脚本，请使用源码运行方式。
 
 ## 从源码运行
 
