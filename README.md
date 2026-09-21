@@ -11,7 +11,7 @@
 
 这里是否就是他的命定之地？
 
-[开始体验](#开始体验) · [从源码运行](#从源码运行) · [项目结构](#项目结构) · [反馈](https://github.com/DecayInPathos/pathos_novel/issues)
+[从源码运行](#从源码运行) · [项目结构](#项目结构) · [反馈](https://github.com/DecayInPathos/pathos_novel/issues)
 
 ## 关于作品
 
