@@ -24,3 +24,26 @@ image bg harbor carriage rear:
       "images/bg_harbor_carriage_rear.png"
       xysize (1920, 1080)
       fit "cover"
+
+image bg cliff church window:
+      "images/bg_cliff_church_window.png"
+      xysize (1920, 1080)
+      fit "cover"
+
+image fog_white = Solid("#ffffff")
+
+define fog_thicken = ImageDissolve(
+      "images/fog_mask.png",
+      10.0,
+      ramplen=128
+)
+
+image bg gloomy alley:
+      "images/bg_gloomy_alley.png"
+      xysize (1920, 1080)
+      fit "cover"
+
+image bg aged chapel interior:
+      "images/bg_aged_chapel_interior.png"
+      xysize (1920, 1080)
+      fit "cover"
