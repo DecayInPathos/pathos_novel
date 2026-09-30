@@ -52,3 +52,8 @@ image bg ferry deck sea:
       "images/bg_ferry_deck_sea.png"
       xysize (1920, 1080)
       fit "cover"
+
+image bg cloudyland distant dusk:
+      "images/bg_cloudyland_distant_dusk.png"
+      xysize (1920, 1080)
+      fit "cover"
