@@ -57,3 +57,13 @@ image bg cloudyland distant dusk:
       "images/bg_cloudyland_distant_dusk.png"
       xysize (1920, 1080)
       fit "cover"
+
+image bg dream palace:
+      "images/bg_dream_palace.png"
+      xysize (1920, 1080)
+      fit "cover"
+
+image bg chapel cliffside:
+      "images/bg_chapel_cliffside.png"
+      xysize (1920, 1080)
+      fit "cover"
